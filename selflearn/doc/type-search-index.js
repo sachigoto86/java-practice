@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"to.msn.wings.selflearn.chap01","l":"Hello"},{"l":"すべてのクラスおよびインタフェース","u":"allclasses-index.html"}];updateSearchResults();

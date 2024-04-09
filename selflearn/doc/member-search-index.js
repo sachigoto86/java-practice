@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"to.msn.wings.selflearn.chap01","c":"Hello","l":"Hello()","u":"%3Cinit%3E()"},{"p":"to.msn.wings.selflearn.chap01","c":"Hello","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
