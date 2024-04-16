@@ -16,10 +16,7 @@ public class SamoleEx602 {
 		for (String s : hs) {
 			System.out.println(s);
 		}
-		
-		for(int i =0; i<hs.size(); i++) {
-			hs.
-		}
+
 	}
 
 }
